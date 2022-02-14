@@ -2,6 +2,7 @@
 Getting and Cleaning Data Course Week 4 Project
 
 Author: Kevin Jones
+
 Data Zip File Location: UC Irvine Repo
 
 Goal of the Project
